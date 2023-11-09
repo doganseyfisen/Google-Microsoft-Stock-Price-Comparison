@@ -52,8 +52,3 @@ Doğan Seyfi Şen
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You are welcome to use, share, and modify this project for your own purposes. Happy coding!
-```
